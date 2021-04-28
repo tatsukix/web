@@ -20,40 +20,40 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: tatsukix😝tohoku.ac.jp
+phone: +81-22-795-6236
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Kawauchi Campus A07-231, 41 Kawauchi, Aoba-ku
+  city: Sendai
+  region: Miyagi
+  postcode: '980-8576'
+  country: Japan
+  country_code: JP
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '38.2595223'
+  longitude: '140.8501358'
+directions: Enter Building A17 and take the stairs to 231 on Floor 2
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  - 'Monday thru Friday 06:00 to 22:00'
+  - 'Weekends 09:00 to 21:00'
+# appointment_url: 'https://calendly.com/tatsukix'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+#  - icon: twitter
+#    icon_pack: fab
+#    name: DM Me
+#    link: 'https://twitter.com/tatsukix'
+#  - icon: skype
+#    icon_pack: fab
+#    name: Skype Me
+#    link: 'skype:tatsukix'
+#  - icon: keybase
+#    icon_pack: fab
+#    name: Chat on Keybase
+#    link: 'https://keybase.io/'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -141,11 +141,11 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 'Google Maps'
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'UA-125872740-1'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
