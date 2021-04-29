@@ -36,7 +36,6 @@ Here is a list of awards, honors, and accomplishments.
 - **2017** --- JpGU 2017 Outstanding Student Presentation Award (OSPA), **Naoko Takahashi**, M1 (2017)
 
 ##### Travel Grants
-- **2018** --- Zonta Club of Sendai I, Grant for Female Students Traveling Abroad, **Mayu Kakefuda**, M1 (2019)
 - **2018** --- Zonta Club of Sendai I, Grant for Female Students Traveling Abroad, **Tomomi Hara**, M1 (2018)
 
 ##### Competitive Research Fellowships
@@ -70,7 +69,8 @@ Here is a list of awards, honors, and accomplishments.
 - **1998** --- JSPS Research Fellowship (DC2)
 
 ##### Misc
+- **2017** --- 第11回 惑星地球フォトコンテスト 入選、作品名「[混成の美](http://www.geosociety.jp/faq/content0896.html)」
 - **2017** --- 第7回 惑星地球フォトコンテスト 入選、作品名「[ハート型の礫](http://www.geosociety.jp/faq/content0639.html)」
-- **2010** --- 第1回 惑星地球フォトコンテスト 入選、作品名「北米−カリブプレート境界の蛇紋岩」
+- **2010** --- 第1回 惑星地球フォトコンテスト 入選、作品名「[北米−カリブプレート境界の蛇紋岩](http://www.geosociety.jp/faq/content0225.html)」
 
 ----------

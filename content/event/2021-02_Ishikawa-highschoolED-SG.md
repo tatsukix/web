@@ -1,15 +1,15 @@
 +++
 title = '日本列島７億年： そのダイナミックな歴史を読み解く'
 subtitle = '石川県高等学校教育研究会地学部会講演会 (2021年02月26日)'
-date = 2021-02-26
+date = 2021-02-26T14:00:00
 
 # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# time_start = 2020-09-21T14:30:00
-# time_end = 2020-09-21T15:30:00
+# time_start = 2021-09-21T14:00:00
+# time_end = 2021-09-21T16:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Tatsuki Tsujimori"]

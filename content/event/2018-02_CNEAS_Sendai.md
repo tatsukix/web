@@ -1,7 +1,7 @@
 +++
 title = "世界の翡翠 —新しい地質学的視点—"
 subtitle = '東北アジア研究センター公開講演会『玉 ―その起源と東北アジア先史の「石」文化―』(2018年02月10日)'
-date = 2018-02-10  
+date = 2018-02-10T14:00:00 
 
 # Schedule page publish date.
 draft = false

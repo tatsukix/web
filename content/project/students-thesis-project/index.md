@@ -3,7 +3,7 @@
 title = "Students Thesis Topics"
 
 # Date this page was created.
-date = 2018-11-14
+date = 2021-04-29
 
 # Project summary to display on homepage.
 #summary = "Here is a list of thesis topics for students in past years; check out `external_link`."
@@ -32,15 +32,18 @@ Here is a list of thesis topics for students in past years.
 ----------
 
 ## Graduate Students: Doctoral Course --- Ph.D. Thesis
+###### 2024 (FY2023)
+- **Kimura, Yuto (木村 優斗)**, _in progress_ (metasomatism, etc)
+
 ###### 2022 (FY2021)
-- [**Takahashi, Naoko (高橋 菜緒子)**](https://orcid.org/0000-0002-3518-8934), _in progress_ (DAC experiments etc)
+- [**Takahashi, Naoko (高橋 菜緒子)**](https://orcid.org/0000-0002-3518-8934), _in progress_ (DAC experiments, solution chemistry, etc)
   - 東北大学[国際共同大学院 環境・地球科学プログラム(GP-EES)](http://gp-ees.tohoku.ac.jp)学生
   - [日本学術振興会特別研究員](https://www.jsps.go.jp/j-pd/)DC1
 
 ###### 2021 (FY2021)
 - [**Ganbat, Ariuntsetseg**](https://orcid.org/0000-0002-3124-9680), _in progress_ (granite petrogenesis)
   - ['Doctoral student in Earth science from Mongolia'](http://www.sci.tohoku.ac.jp/about/pdf/sci-e_leaflet2020.pdf): See Page 7 of a leaflet of '_TU Graduate School of Science 2020_'
-  - [Ganbat et al. (2021)](https://doi.org/10.1016/j.gr.2020.12.009)📃 
+  - [Ganbat et al. (2021a)](https://doi.org/10.1016/j.gr.2020.12.009)📃 ; [Ganbat et al. (2021b)](https://doi.org/)📃
 
 ###### 2018 (FY2017)
 - [**Ayano, Sofiya Abdulkadir**](https://orcid.org/0000-0002-3124-9680), 2018, Carbonate metasomatism of Neoproterozoic ophiolite of the East African Orogenic Belt: An integrated study of the Tulu Dimtu ultramafic body (Ethiopia) [東アフリカ造山帯新原生代オフィオライトの炭酸塩交代作用：トゥルデムトゥ超苦鉄質岩体（エチオピア）の総合研究]. 東北大学 博士論文(英文), 125 p.
@@ -49,15 +52,24 @@ Here is a list of thesis topics for students in past years.
 ----------
 
 ## Graduate Students: Master Course --- Master Thesis
+##### 2023 (FY2022)
+- **Oka, Hiroki (岡 絋希)**, _in progress_ (low-T eclogite, lawsonite, etc)
+- **Higuchi, Rio (樋口 莉央)**, _in progress_ (corundum-bearing metacumulate, etc)
+
 ###### 2022 (FY2021)
-- **Komata, Toshiaki (古俣 利明)**, _in progress_ (metasomatism, multivariate analysis)
+- **Komata, Toshiaki (古俣 利明)**, _in progress_ (metasomatism, multivariate analysis, etc)
 - [**Harada, Hironobu (原田 浩伸)**](https://orcid.org/0000-0001-5026-3819), _in progress_ (dolomitic marble, C-O stable isotope, etc)
   - [Harada et al. (2021)](https://doi.org/10.1111/iar.12389)📃
   - 公益信託 岩井久雄記念宮城奨学育英基金奨学生
 - [**Fukushima, Ryo (福島 諒)**](https://orcid.org/0000-0003-2683-6757), _in progress_ (metamorphic kinetics, eclogitization, etc)
   - [Fukushima et al. (2021a)](https://doi.org/10.2138/am-2021-7784)📃; [Fukushima et al. (2021b)](https://doi.org/10.1111/iar.12394)📃
   - 公益財団法人 三菱UFJ信託奨学財団奨学生
+  - 東北大学[国際共同大学院 環境・地球科学プログラム(GP-EES)](http://gp-ees.tohoku.ac.jp)学生  
 - **Fukuhara, Shunsuke (福原 春輔)**, _in progress_ (HP granulite, exsolution features, etc)
+  - [Fukushima et al. (2021a)](https://doi.org/10.2138/am-2021-7784)📃; [Fukushima et al. (2021b)](https://doi.org/10.1111/iar.12394)📃
+  - 公益財団法人 三菱UFJ信託奨学財団奨学生
+  - 東北大学[国際共同大学院 環境・地球科学プログラム(GP-EES)](http://gp-ees.tohoku.ac.jp)学生  
+- **Rio**, _in progress_ (incipient jadeititization)
 
 ##### 2021 (FY2020)
 - [**Matsunaga, Shota (松永 翔太)**](https://orcid.org/0000-0002-2920-503X), _in progress_ Reappraisal of the oldest high-pressure type metamorphic rocks in Japan [日本列島最古の沈み込み変成岩の岩石学的・年代学的研究]. 東北大学 修士論文(英文), xxx p.
@@ -89,11 +101,15 @@ Here is a list of thesis topics for students in past years.
   - 東北大学[国際共同大学院 環境・地球科学プログラム(GP-EES)](http://gp-ees.tohoku.ac.jp)学生
 
 ----------
-
 ## Undergraduate Students --- Bachelor Thesis
+##### 2022 (FY2021)
+- **Kaneko, Shun (金子 瞬)**, _in progress_ (troctolite, crustal heat flow)
+- **Kobashi, Tomoka (小橋 知佳)**, _in progress_ (serpentinite, accretionary complex)
+- **Shiseki, Kohei (志関 弘平)**, _in progress_ (3D geodynamic modeling, dinosaurs)
+
 ##### 2021 (FY2020)
-- **Hiroki, Oka (岡 絋希)**, 2021, Raman spectroscopic study of natural lawsonite: Evaluation of elastic behavior in blueschist-facies condition [天然ローソン石のラマン分光学: 青色片岩相における弾性的挙動の評価]. 東北大学 学士論文(英文), xx p. 
-- **Ryo, Tandai (丹代 亮)**, 2021, Integrated Spectrum Analysis Tool with Expansion Codes (iSATex): A Python-based software package for multi-spectrum analyses [iSATex: マルチスペクトル解析のためのPythonベースのソフトウェアパッケージ]. 東北大学 学士論文(英文), xxx p. 
+- **Oka, Hiroki (岡 絋希)**, 2021, Raman spectroscopic study of natural lawsonite: Evaluation of elastic behavior in blueschist-facies condition [天然ローソン石のラマン分光学: 青色片岩相における弾性的挙動の評価]. 東北大学 学士論文(英文), xx p. 
+- **Tandai, Ryo (丹代 亮)**, 2021, Integrated Spectrum Analysis Tool with Expansion Codes (iSATex): A Python-based software package for multi-spectrum analyses [iSATex: マルチスペクトル解析のためのPythonベースのソフトウェアパッケージ]. 東北大学 学士論文(英文), xxx p. 
 
 ##### 2020 (FY2019)
 - **Komata, Toshiaki (古俣 利明)**, 2020, Stable isotope study of carbonate rock associated with antigorite serpentinite: O-C isotope characterization of a textually zoned calcite rock from the Omi serpentinite mélange, Japan [蛇紋岩に伴う炭酸塩岩の安定同位体地球化学：青海地域の累帯組織を示す方解石岩の酸素・炭素同位体組成キャラクタリゼーション]. 東北大学 学士論文(英文), 91 p. 

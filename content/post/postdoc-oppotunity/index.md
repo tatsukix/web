@@ -7,8 +7,8 @@ authors:
 tags:
 - Academic
 categories: []
-date: "2018-11-25"
-lastmod: "2018-11-25"
+date: "2021-04-25"
+lastmod: "2021-04-25"
 featured: false
 draft: false
 
@@ -47,8 +47,11 @@ Below is a listing of some popular postdoctoral fellowships from the Japan Socie
 * [JSPS Research Fellowships for Young Researchers](https://www.jsps.go.jp/english/e-pd/index.html)/ [日本学術振興会特別研究員PD](https://www.jsps.go.jp/j-pd/)
 
 ### Past Postdoctoral Fellows
-- [**Daniel Pastor-Galán**](https://danielpastorgalan.com), Ph.D., [ORCID](https://orcid.org/0000-0002-0226-2739), 09/2016-09/2018, _Supported by_ [JSPS Postdoctoral Fellowships for Research in Japan (Standard)](https://www.jsps.go.jp/english/e-fellow/), [外国人特別研究員(一般)](https://www.jsps.go.jp/j-ippan/gaiyou.html), `Winner of the EGU's 2019 Division Outstanding Early Career Scientists Award`🏅. 
+- [**Daniel Pastor-Galán**](https://danielpastorgalan.com), Ph.D., [ORCID](https://orcid.org/0000-0002-0226-2739), 09/2016-09/2018, _Supported by_ [JSPS Postdoctoral Fellowships for Research in Japan (Standard)](https://www.jsps.go.jp/english/e-fellow/), [外国人特別研究員(一般)](https://www.jsps.go.jp/j-ippan/gaiyou.html). 
 
+# Non-tenure track assistant professor
+- [**Daniel Pastor-Galán**](https://danielpastorgalan.com), Ph.D., [ORCID](https://orcid.org/0000-0002-0226-2739), 04/2019-04/2021: Assistant Professor of [the Frontier Research Institute for Interdisciplinary Sciences
+](https://www.fris.tohoku.ac.jp/en/) (学際科学フロンティア研究所 新領域創成研究部 助教), `Winner of the EGU's 2019 Division Outstanding Early Career Scientists Award`🏅; Cross-appointment between [University of Granada](https://www.ugr.es/en) and Tohoku University (until 2024). 
 
 # Invitational Program for International Collaboration
 

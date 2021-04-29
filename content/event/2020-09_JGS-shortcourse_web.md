@@ -1,15 +1,15 @@
 +++
 title = '東北アジア及び日本列島の地体構造発達史'
 subtitle = '日本地質学会2020名古屋代替企画 第１回ショートコース (2020年09月19日)'
-date = 2020-09-19
+date = 2020-09-19T09:00:00
 
 # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# time_start = 2020-09-21T14:30:00
-# time_end = 2020-09-21T15:30:00
+# time_start = 2020-09-19T09:00:00
+# time_end = 2020-09-19T12:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Tatsuki Tsujimori"]

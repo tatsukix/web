@@ -1,7 +1,7 @@
 +++
 title = "プレートテクトニックな宝石 ～美しく輝ける「石」と地球史～"
 subtitle = '第138回 東北大学サイエンスカフェ (2017年03月17日)'
-date = 2017-03-17  
+date = 2017-03-17T18:00:00  
 
 # Schedule page publish date.
 draft = false

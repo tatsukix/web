@@ -1,7 +1,7 @@
 +++
 title = "地球史研究所（岡山県赤磐市）開設記念講演"
 subtitle = '地球年代学ネットワーク地球史研究所開設記念「オープニング・フェスタ in 吉井」(2017年10月14日)'
-date = 2017-10-14  
+date = 2017-10-14T11:00:00 
 
 # Schedule page publish date.
 draft = false

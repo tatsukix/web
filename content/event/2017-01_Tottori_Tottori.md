@@ -1,7 +1,7 @@
 +++
 title = "「鳥取砂丘の砂」が語る大地の成り立ちと石の文化"
 subtitle = '鳥取砂丘再生会議 「ふしぎ発見！鳥取砂丘」講演会 (2017年01月21日)'
-date = 2017-01-21  
+date = 2017-01-21T13:00:00  
 
 # Schedule page publish date.
 draft = false

@@ -1,7 +1,7 @@
 +++
 title = "一家に1枚ポスター「日本列島7億年」をよみとく：足もとの「石」からよみとく"
 subtitle = '第60回科学技術週間 関連イベント (2019年04月21日)'
-date = 2019-04-21
+date = 2019-04-21T14:30:00
 
 # Schedule page publish date.
 draft = false
