@@ -66,10 +66,7 @@ Here is a list of thesis topics for students in past years.
   - 公益財団法人 三菱UFJ信託奨学財団奨学生
   - 東北大学[国際共同大学院 環境・地球科学プログラム(GP-EES)](http://gp-ees.tohoku.ac.jp)学生  
 - **Fukuhara, Shunsuke (福原 春輔)**, _in progress_ (HP granulite, exsolution features, etc)
-  - [Fukushima et al. (2021a)](https://doi.org/10.2138/am-2021-7784)📃; [Fukushima et al. (2021b)](https://doi.org/10.1111/iar.12394)📃
-  - 公益財団法人 三菱UFJ信託奨学財団奨学生
-  - 東北大学[国際共同大学院 環境・地球科学プログラム(GP-EES)](http://gp-ees.tohoku.ac.jp)学生  
-- **Rio**, _in progress_ (incipient jadeititization)
+- **Rio**, _in progress_ (incipient jadeititization, etc)
 
 ##### 2021 (FY2020)
 - [**Matsunaga, Shota (松永 翔太)**](https://orcid.org/0000-0002-2920-503X), _in progress_ Reappraisal of the oldest high-pressure type metamorphic rocks in Japan [日本列島最古の沈み込み変成岩の岩石学的・年代学的研究]. 東北大学 修士論文(英文), xxx p.
