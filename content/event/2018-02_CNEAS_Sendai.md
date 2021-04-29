@@ -1,5 +1,6 @@
 +++
 title = "世界の翡翠 —新しい地質学的視点—"
+subtitle = '東北アジア研究センター公開講演会『玉 ―その起源と東北アジア先史の「石」文化―』(2018年02月10日)'
 date = 2018-02-10  
 
 # Schedule page publish date.
@@ -14,7 +15,7 @@ abstract = ""
 
 abstract_short = ""
 
-event = "東北アジア研究センター公開講演会『玉 ―その起源と東北アジア先史の「石」文化―」 [CNES public lecture 2018]"
+event = "東北アジア研究センター公開講演会『玉 ―その起源と東北アジア先史の「石」文化―』 [CNES public lecture 2018]"
 event_url = "https://www.tohoku.ac.jp/japanese/2018/01/event20180109-02.html"
 
 # Location of event.

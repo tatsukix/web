@@ -1,5 +1,6 @@
 +++
 title = "ひすいのサイエンス（科学）"
+subtitle = '日本鉱物科学会 一般普及講演「日本の国石・ひすい」(2018年09月18日)'
 date = 2018-09-22  
 
 # Schedule page publish date.

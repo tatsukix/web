@@ -1,5 +1,6 @@
 +++
-title = "タンザニア、原生代造山帯の地質調査"
+title = 'タンザニア、原生代造山帯の地質調査'
+subtitle = '日本地質学会東北支部2020年度総会・講演会代替企画「プレコロナ時代のフィールドワークなどを振り返る」(2021年3月31日)'
 date = 2021-03-31
 
 # Schedule page publish date.
@@ -17,6 +18,7 @@ authors = ["Tatsuki Tsujimori"]
 abstract = ""
 
 abstract_short = ""
+
 
 # Name of event and optional event URL.
 event = "日本地質学会東北支部2020年度総会・講演会代替企画「プレコロナ時代のフィールドワークなどを振り返る」"
@@ -59,3 +61,4 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Right"
 +++
+{{< youtube R5SwZUm4TNc >}}

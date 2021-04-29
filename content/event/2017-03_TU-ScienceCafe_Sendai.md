@@ -1,5 +1,6 @@
 +++
 title = "プレートテクトニックな宝石 ～美しく輝ける「石」と地球史～"
+subtitle = '第138回 東北大学サイエンスカフェ (2017年03月17日)'
 date = 2017-03-17  
 
 # Schedule page publish date.
@@ -54,4 +55,4 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Right"
 +++
-
+{{< youtube 2gSe5f5GAE4 >}}

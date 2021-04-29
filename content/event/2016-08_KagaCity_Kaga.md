@@ -1,5 +1,6 @@
 +++
 title = "惑星『地球』の探求～４６億年の歴史とその個性"
+subtitle = '石川県加賀市 市民文化講演会 (2016年08月06日)'
 date = 2016-08-06
 
 # Schedule page publish date.
