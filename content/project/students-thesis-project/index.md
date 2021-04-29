@@ -7,7 +7,7 @@ date = 2021-04-29
 
 # Project summary to display on homepage.
 #summary = "Here is a list of thesis topics for students in past years; check out `external_link`."
-summary = "Seeking talented students to work with me. Here is a list of thesis topics for students in past years."
+summary = "A list of thesis topics for students in past years"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -27,7 +27,7 @@ tags = []
   focal_point = "Bottomleft"
 
 +++
-Here is a list of thesis topics for students in past years.
+Seeking talented students to work with me. Here is a list of thesis topics for students in past years. 
 
 ----------
 
