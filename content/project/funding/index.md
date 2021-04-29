@@ -58,7 +58,7 @@ Here is a list of funding in past years.
 - "An
 integrated study of the Chuacus metamorphic belt (Guatemala): a UHP terrane
 along the North America-Caribbean plate boundary?" 2005年8月〜2008年6月 アメリカ国立科学財団グラント（代表：Liou, J.G.）$89,996
-- "Caracterizacion química por microsonda electrónica de los materials ornamentales que se extraen en la Cordillera Contral de Guatemala" 2005年 グアテマラ共和国国立科学技術会議
+- "Caracterizacion química por microsonda electrónica de los materials ornamentales que se extraen en la Cordillera Contral de Guatemala" 2005年 グアテマラ共和国国立科学技術会議グラント
   (代表：Gordillo Barranco de Marchena, Carla Deyanira)
 ----------
 
