@@ -51,7 +51,7 @@ Below is a listing of some popular postdoctoral fellowships from the Japan Socie
 
 # Non-tenure track assistant professor
 - [**Daniel Pastor-Galán**](https://danielpastorgalan.com), Ph.D., [ORCID](https://orcid.org/0000-0002-0226-2739), 04/2019-04/2021: Assistant Professor of [the Frontier Research Institute for Interdisciplinary Sciences
-](https://www.fris.tohoku.ac.jp/en/) (学際科学フロンティア研究所 新領域創成研究部 助教), `Winner of the EGU's 2019 Division Outstanding Early Career Scientists Award`🏅; Cross-appointment between [University of Granada](https://www.ugr.es/en) and Tohoku University (until 2024). 
+](https://www.fris.tohoku.ac.jp/en/) (学際科学フロンティア研究所 新領域創成研究部 助教); Cross-appointment between [University of Granada](https://www.ugr.es/en) and Tohoku University (until 2024)
 
 # Invitational Program for International Collaboration
 
