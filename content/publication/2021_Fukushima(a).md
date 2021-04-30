@@ -32,7 +32,7 @@ featured: false
 links:
  - name: "Link"
    url: "http://www.bgi.uni-bayreuth.de/?page=5&lng=en&view=1"
-url_pdf: 'pdf/BGIAR(2019)78-9.pdf'
+url_pdf: 'pdf/BGIAR(2020)126-7.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
