@@ -1,12 +1,11 @@
 ---
-title: "Trace-element zoning patterns in porphyroblastic garnets in low-T eclogites: Parameter optimization of the diffusion-limited REE-uptake model"
+title: "Various antiphase domains in garnet-hosted omphacite in low temperature eclogite: A FIB–TEM study on heterogeneous ordering processes"
 authors:
 - Ryo Fukushima
 - Tatsuki Tsujimori
-- Shogo Aoki
-- Kazumasa Aoki
-date: "2021-02-09"
-doi: "10.1111/iar.12394"
+- Nobuyoshi Miyajima
+date: "2021-01-01"
+doi: "10.2138/am-2021-7784"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -15,13 +14,13 @@ doi: "10.1111/iar.12394"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Island Arc*, v. 30, e12394, doi:10.1111/iar.12394"
+publication: "*American Mineralogist*, v. 106, doi:10.2138/am-2021-7784"
 publication_short: ""
 
-abstract: "Compositional zoning patterns of the major elements and REEs in prograde-zoned garnets whose Mg/(Mg+Fe) atomic ratios increase rimward have been widely used to understand the metamorphic P–T–t trajectories, and the diffusion-limited REE-uptake model is a promising way to interpret their growth rates and the REE diffusion kinetics in the low-temperature eclogite. In order to elucidate their growth kinetics with Skora et al.’s (2006) diffusion-limited REE uptake model for prograde-zoned garnets, we examine the trace-element zoning patterns of two prograde-zoned porphyroblastic garnets (~6 mm in size) in low-temperature eclogites from two different localities. Core-to-rim trace-element profiles in a garnet (prp5–9alm61–67sps1–3grs24–30) of a glaucophane-bearing epidote eclogite of Syros (Cyclades, Greece) are characterized by the presence of Y + HREE peaks in the mantle, which might be attributed to a continuous breakdown of the titanite to form rutile during the garnet growth. In contrast, those in a garnet (prp4–7alm61–68sps3–10grs23–24) extracted from a lawsonite-eclogite of the South Motagua Mélange (Guatemala) have prominent central peaks of Y + HREEs. Although the REE profiles of both the garnets can be explained by the diffusion-limited uptake, their Mn profiles suggest that their growth-rate laws are different: i.e., diffusion-controlled (Syros) and interface-controlled (South Motagua Mélange). Prior to the model application, we optimize the number of the parameters as the garnet grows with the interface-controlled processes based on the growth Péclet number. In particular, we propose the ratio of the REE diffusivity in the eclogitic matrix to the garnet growth rate as the new parameter. Visualizing the values of the new parameters allows to readily understand the relationship between the REE profiles and the REE-diffusion/garnet-growth kinetics in low-T eclogite. Our model refinement leads to the simple quantitative characterization of core-to-rim REE profiles in garnet in low-temperature eclogites."
+abstract: "Low-temperature omphacite has peculiar microstructures called ‘antiphase domains (APDs)’, which can be formed via phase transition from disordered C2/c to ordered P2/n structure during cooling. Hence morphological analyses of the APDs of undeformed omphacite have a potential to unravel the temperature–time (T–t) histories of the eclogite. We investigated five omphacite inclusions in a euhedral garnet porphyroblast obtained from low-temperature eclogite in Syros. The garnet (~6 mm in size) exhibits a distinct prograde chemical zoning and contains abundant mineral inclusions. Transmission electron microscope (TEM) observations of the focused ion beam (FIB) foils confirmed a heterogeneous distribution of equiaxed APDs (10–280 nm in diameter) and columnar APDs. Size distributions of the equiaxed APDs are characterized by kurtosis values of −0.45–3.91, which are larger than those in the matrix omphacite. The columnar APDs are subdivided into two types: dislocation-related (Type I) and inclusion–host interfacial (Type II). The presence of Type I APDs suggests the inclusions were deformed prior to the host garnet growth. In contrast, Type II APDs, which are characterized by a bundle of stripe-like APDs (~40 nm in width) aligned perpendicular to the host garnet, imply the simultaneous growth of omphacite and garnet in a non-deformation state. The presence of these two contrasting APDs of omphacite inclusions in the single prograde-zoned garnet prevents a simple application of geospeedometry based on APD sizes. Nevertheless, our observations demonstrate that APDs are keys to understanding thermodynamic equilibrium states and the mineral growth kinetics during eclogitization."
 
 # Summary. An optional shortened abstract.
 # summary: 
@@ -32,7 +31,7 @@ featured: true
 
 links:
  - name: "Link"
-   url: "https://doi.org/10.1111/iar.12394"
+   url: "https://doi.org/10.2138/am-2021-7784"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -67,5 +66,5 @@ image:
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: "Credit: R. Fukushima"
-  image: "headers/2021_Fukushima(b)_hd-img.jpg"
+  image: "headers/2021_Fukushima_hd-img.jpg"
 ---

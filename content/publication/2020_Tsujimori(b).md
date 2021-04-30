@@ -4,7 +4,7 @@ authors:
 - Tatsuki Tsujimori
 - Ryo Fukushima
 - Nobuyoshi Miyajima
-date: "2019-12-31"
+date: "2020-03-31"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ doi: ""
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*BGI (Bayerisches Forschungsinstitut für Experimentelle Geochemie und Geophysik) Annual Report 2019**, p. 78-79"
+publication: "*BGI (Bayerisches Forschungsinstitut für Experimentelle Geochemie und Geophysik) Annual Report 2019*, p. 78–79"
 publication_short: ""
 
 abstract: ""
