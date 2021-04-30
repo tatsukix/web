@@ -40,9 +40,9 @@ Since late 2015, the Petrotectonics Research Group of CNEAS has been working str
 ## Program
 **Session A. 'Environmental aspects and dynamic changes of Northeast Asia', June 26, 2021**
 ### Session A-1 'International Network on Geological Sciences: Perspectives and more'
-* `10:00-10:40` **Unraveling the Guatemala Suture Zone: a world-class natural laboratory** --- Flores, Kennet (The University of North Carolina at Chapel Hill, USA) 
+* `10:00-10:40` **Unraveling the Guatemala Suture Zone: a world-class natural laboratory** --- Flores, Kennet (University of North Carolina at Chapel Hill, USA) 
 * `10:45-11:25` **Tectonic erosion at Pacific-type convergent margins** --- Safonova, Inna (Novosibirsk State University / Sobolev Institute of Geology and Mineralogy SB RAS, Russia)
-* `13:40-14:30` **New tectonic model on repeated break-up and amalgamation of Precambrian Supercontinents in Tanzania, East Africa**  --- Boniface, Nelson (The University of Dar es Salaam, Tanzania) 
+* `11:30-12:00` **New tectonic model on repeated break-up and amalgamation of Precambrian Supercontinents in Tanzania, East Africa**  --- Boniface, Nelson (University of Dar es Salaam, Tanzania) 
 
 
 --------------------------------
