@@ -4,11 +4,11 @@ authors:
 - Ryo Fukushima
 - Tatsuki Tsujimori
 - Nobuyoshi Miyajima
-date: "2021-01-01"
+date: "2021-03-01"
 doi: "10.2138/am-2021-7784"
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:0031Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
