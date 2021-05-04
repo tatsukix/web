@@ -16,7 +16,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Special Paper of the Geological Society of America*, 552, in press
+publication: "*Special Paper of the Geological Society of America*, 552, in press"
 publication_short: ""
 
 abstract: ""
