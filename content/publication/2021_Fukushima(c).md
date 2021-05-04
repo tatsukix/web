@@ -67,5 +67,5 @@ image:
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: "Credit: R. Fukushima"
-  image: "headers/2021_Fukushima(b)_hd-img.jpg"
+  image: "headers/2021_Fukushima(c)_hd-img.jpg"
 ---
