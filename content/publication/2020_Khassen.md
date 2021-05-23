@@ -71,7 +71,7 @@ image:
 # slides: example
 
 # Optional header image (relative to `static/media/` folder).
-header:
+# header:
 #  caption: ""
 #  image: ""
 ---
