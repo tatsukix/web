@@ -72,6 +72,6 @@ image:
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Credit: T. Tsujimori"
-  image: "headers/2020_Tsujimori_hd-img.jpg"
+#  caption: ""
+#  image: ""
 ---
