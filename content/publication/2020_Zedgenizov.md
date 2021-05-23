@@ -19,7 +19,7 @@ doi: "10.1016/j.lithos.2020.105659"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Lithos*, 105659, doi:10.1016/j.lithos.2020.105659"
+publication: "*Lithos*, v. 370-371, 105659, doi:10.1016/j.lithos.2020.105659"
 publication_short: ""
 
 abstract: "(Mg,Fe)SiO3 bridgmanite is the dominant phase in the lower mantle; however no naturally occurring samples had ever been found in terrestrial samples as it undergoes retrograde transformation to a pyroxene-type structure. To identify retrograde phases of former bridgmanite single-phase and composite inclusions of (Mg,Fe)SiO3 in a series of superdeep diamonds have been examined with electron microscopy, electron microprobe, Raman spectroscopy and X-ray diffraction techniques. Our study revealed that (Mg,Fe)SiO3 inclusions are represented by orthopyroxene. Orthopyroxenes in single-phase and composite inclusions inherit initial chemical composition of bridgmanites, including a high Al and low Ni contents. In composite inclusions they coexist with jeffbenite (ex-TAPP) and olivine. The bulk compositions of these composite inclusions are rich in Al, Ti, and Fe, which are similar but not fully resembling Al-rich bridgmanite produced in experiments on the MORB composition. The retrograde origin of composite inclusions due to decomposition of Al-rich bridgmanite may be doubtful because each of observed minerals may represent coexisting HP phases, i.e. bridgmanite or ringwoodite."
