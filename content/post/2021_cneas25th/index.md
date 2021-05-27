@@ -29,12 +29,19 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 
+# Set captions for image gallery.
+gallery_item:
+- album: gallery
+  caption: 
+  image: CNEAS25th.jpg
+  
+
 ---
 ### Session A1. International Network on Geological Sciences: Perspectives and more
 
-Convener: Tatsuki Tsujimori
+Organizer/Convener: Tatsuki Tsujimori
 
-Since late 2015, the [Petrotectonics Research Group](http://www.cneas.tohoku.ac.jp/labs/geo/1index/) of CNEAS has been working strenuously on strengthening International Cooperative research projects to enhance and revolutionize our understanding of the solid Earth-process in convergent plate margin. Several overseas colleagues joined as visiting professors over the past five years to collaborate in critical projects dealing with the evolution of convergent plate boundaries processes. Besides, they have interacted with students and CNEAS faculties to have an expanded international experience and network. We have jointly organized special sessions in international meetings and published results in international journals. The outcome has a significant impact on not only Tohoku University but also the global geological sciences community. In this online session, in commemoration of the 25th anniversary of the CNEAS, we invited three professors who worked with us closely in CNES before. This session aims to provide opportunities to invite more people to our international network. This opportunity will also enhance international scientific exchanges and international friendship.
+Since late 2015, the [Petrotectonics Research Group](http://www.cneas.tohoku.ac.jp/labs/geo/1index/) of CNEAS has been working strenuously on strengthening International Cooperative research projects to enhance and revolutionize our understanding of the solid Earth-process in convergent plate margin. Several overseas colleagues joined as visiting professors over the past five years to collaborate in critical projects dealing with the evolution of convergent plate boundaries processes. Besides, they have interacted with students and CNEAS faculties to have an expanded international experience and network. We have jointly organized special sessions in international meetings and published results in international journals. The outcome has a significant impact on not only Tohoku University but also the global geological sciences community. In this online session, in commemoration of [the 25th anniversary of the CNEAS](http://www.cneas.tohoku.ac.jp/news/asia25), we invited three professors who worked with us closely in CNES before. This session aims to provide opportunities to invite more people to our international network. This opportunity will also enhance international scientific exchanges and international friendship.
 
 --------------------------------
 ## Program
@@ -49,4 +56,5 @@ Since late 2015, the [Petrotectonics Research Group](http://www.cneas.tohoku.ac.
 ## Venue
 
 The symposium will be held ONLINE. 
+* Free, Registration required at [https://amarys-jtb.jp/NortheastAsia2021/](http://www.cneas.tohoku.ac.jp/news/asia25_e/index.html)
 

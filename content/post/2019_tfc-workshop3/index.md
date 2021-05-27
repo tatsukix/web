@@ -144,6 +144,6 @@ The workshop will be held in the Main Conference Hall of the [TOKYO ELECTRON Hou
 
 2-1-1 Katahira, Aoba-ku, Sendai 980-8577 Japan
 
-* Access form [Sendai International Airport](https://www.sendai-airport.co.jp/en/): Take [Airport Access Line](https://www.sendai-airport.co.jp/en/access/train/) to 'JR Sendai Station'. Use Subway Tōzai Line from T07 'Sendai' to T06 'Aoba-dori Ichibancho' Station
+* Access from [Sendai International Airport](https://www.sendai-airport.co.jp/en/): Take [Airport Access Line](https://www.sendai-airport.co.jp/en/access/train/) to 'JR Sendai Station'. Use Subway Tōzai Line from T07 'Sendai' to T06 'Aoba-dori Ichibancho' Station
 
 [[Workshop flyer PDF]](http://www.tfc.tohoku.ac.jp/wp-content/uploads/2018/12/2018NEA-E03_v4.pdf)
