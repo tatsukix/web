@@ -34,9 +34,8 @@ gallery_item:
 - album: gallery
   caption: 
   image: CNEAS25th.jpg
-  
-
 ---
+{{< gallery >}}
 ### Session A1. International Network on Geological Sciences: Perspectives and more
 
 Organizer/Convener: Tatsuki Tsujimori
