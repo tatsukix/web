@@ -59,7 +59,7 @@ Seeking talented students to work with me. Here is a list of thesis topics for s
 ###### 2022 (FY2021)
 - **Komata, Toshiaki (古俣 利明)**, _in progress_ (metasomatism, multivariate analysis, etc)
 - [**Harada, Hironobu (原田 浩伸)**](https://orcid.org/0000-0001-5026-3819), _in progress_ (dolomitic marble, C-O stable isotope, etc)
-  - [Harada et al. (2021a)](https://doi.org/10.1111/iar.12389)📃; [Harada et al. (2021b)](https://doi.org/)📃
+  - [Harada et al. (2021a)](https://doi.org/10.1111/iar.12389)📃; [Harada et al. (2021b)](https://doi.org/10.1016/j.lithos.2021.106256)📃
 
   - 公益信託 岩井久雄記念宮城奨学育英基金奨学生
 - [**Fukushima, Ryo (福島 諒)**](https://orcid.org/0000-0003-2683-6757), _in progress_ (metamorphic kinetics, eclogitization, etc)
