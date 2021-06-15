@@ -33,7 +33,7 @@ featured: true
 links:
  - name: "Link"
    url: "https://doi.org/10.1016/j.epsl.2021.116893"
-url_pdf: ''
+url_pdf: 'pdf/EPSL564(2021)116893+.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

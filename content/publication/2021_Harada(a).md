@@ -38,7 +38,7 @@ featured: true
 links:
  - name: "Link"
    url: "https://doi.org/10.1111/iar.12389"
-url_pdf: ''
+url_pdf: 'pdf/IsldArc30(2021)e12389+.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
