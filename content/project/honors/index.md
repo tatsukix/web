@@ -33,6 +33,7 @@ Here is a list of academic awards, honors, and accomplishments.
 ----------
 ## Accomplishments
 ##### Recognitions
+- **2021** --- Details will be announced on September😉
 - **2014** --- [GSA Fellow](https://www.geosociety.org/GSA/Membership/Recognition/GSA_Fellowship/GSA/Awards/Fellows.aspx#T), The Geological Society of America
 - **2013** --- [MSA Fellow](http://www.minsocam.org/MSA/Awards/Fellowslist.html), The Mineralogical Society of America
 - **2010** --- Top-50 Most Cited Articles from Lithos 2006--2011, Elsevier
