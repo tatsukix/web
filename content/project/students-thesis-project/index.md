@@ -41,7 +41,7 @@ Seeking talented students to work with me. Here is a list of thesis topics for s
   - [日本学術振興会特別研究員](https://www.jsps.go.jp/j-pd/)DC1
 
 ###### 2021 (FY2021)
-- [**Ganbat, Ariuntsetseg**](https://orcid.org/0000-0002-3124-9680), _in progress_ (granite petrogenesis)
+- [**Ganbat, Ariuntsetseg**](https://orcid.org/0000-0003-2464-4161), _in progress_ (granite petrogenesis)
   - ['Doctoral student in Earth science from Mongolia'](http://www.sci.tohoku.ac.jp/about/pdf/sci-e_leaflet2020.pdf): See Page 7 of a leaflet of '_TU Graduate School of Science 2020_'
   - [Ganbat et al. (2021a)](https://doi.org/10.1016/j.gr.2020.12.009)📃 ; [Ganbat et al. (2021b)](https://doi.org/10.1029/2020JB021492.)📃
 
