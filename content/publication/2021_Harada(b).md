@@ -35,7 +35,7 @@ featured: true
 links:
  - name: "Link"
    url: "https://doi.org/10.1016/j.lithos.2021.106256"
-url_pdf: ''
+url_pdf: 'pdf/Lithos398-399(2021)106256+.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
