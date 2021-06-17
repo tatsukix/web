@@ -2,8 +2,13 @@
 title: "Illustrated introduction to eclogite in Japan"
 authors:
 - Tatsuki Tsujimori
-- Hiroshi Miyajima
-- Ritsuro Miyawaki
+- Chu Tanaka
+- Tsuyoshi Sakurai 
+- Masatoshi Matsumoto 
+- Yasuo Miyagi 
+- Tomoyuki Mizukami 
+- Yasuro Kugimiya 
+- Mutsuki Aoya
 date: "2000-09-01"
 doi: ""
 
