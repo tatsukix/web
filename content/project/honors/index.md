@@ -26,14 +26,15 @@ tags = []
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Bottomleft"
-
+  
+  
+# - **2021** --- Japan Association of Mineralogical Sciences Award (the 25th)🏅, Japan Association of Mineralogical Sciences (JAMS)
 +++
 Here is a list of academic awards, honors, and accomplishments.
 
 ----------
 ## Accomplishments
 ##### Recognitions
-- **2021** --- Japan Association of Mineralogical Sciences Award (the 25th)🏅, Japan Association of Mineralogical Sciences (JAMS)
 - **2014** --- [GSA Fellow](https://www.geosociety.org/GSA/Membership/Recognition/GSA_Fellowship/GSA/Awards/Fellows.aspx#T), Geological Society of America (GSA)
 - **2013** --- [MSA Fellow](http://www.minsocam.org/MSA/Awards/Fellowslist.html), Mineralogical Society of America (MSA)
 - **2010** --- Top-50 Most Cited Articles from Lithos 2006--2011, Elsevier
