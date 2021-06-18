@@ -33,13 +33,13 @@ Here is a list of academic awards, honors, and accomplishments.
 ----------
 ## Accomplishments
 ##### Recognitions
-- **2021** --- Details will be announced on September😉
-- **2014** --- [GSA Fellow](https://www.geosociety.org/GSA/Membership/Recognition/GSA_Fellowship/GSA/Awards/Fellows.aspx#T), The Geological Society of America
-- **2013** --- [MSA Fellow](http://www.minsocam.org/MSA/Awards/Fellowslist.html), The Mineralogical Society of America
+- **2021** --- Japan Association of Mineralogical Sciences Award (the 25th)🏅, Japan Association of Mineralogical Sciences (JAMS)
+- **2014** --- [GSA Fellow](https://www.geosociety.org/GSA/Membership/Recognition/GSA_Fellowship/GSA/Awards/Fellows.aspx#T), Geological Society of America (GSA)
+- **2013** --- [MSA Fellow](http://www.minsocam.org/MSA/Awards/Fellowslist.html), Mineralogical Society of America (MSA)
 - **2010** --- Top-50 Most Cited Articles from Lithos 2006--2011, Elsevier
-- **2006** --- Masanori Sakuyama Award (the 1st)🏅, The Geological Society of Japan
-- **2006** --- Young Researchers Award (the 47th)🏅, The Japanese Association of Mineralogists, Petrologists and Economic Geologists (Japan Association of Mineralogical Sciences)
-- **1999** --- Young Researchers Award (the 167th)🏅, The Geological Society of Japan
+- **2006** --- Masanori Sakuyama Award (the 1st)🏅, Geological Society of Japan (JGS)
+- **2006** --- Young Researchers Award (the 47th)🏅, Japanese Association of Mineralogists, Petrologists and Economic Geologists (JAMPEG) [2007-present: Japan Association of Mineralogical Sciences (JAMS)]
+- **1999** --- Young Researchers Award (the 167th)🏅, Geological Society of Japan (JGS)
 
 ##### Competitive Research Fellowships (when I was young😬)
 - **2004** --- JSPS Research Fellowship for Research Abroad 
