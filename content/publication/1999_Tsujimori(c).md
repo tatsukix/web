@@ -34,7 +34,7 @@ featured: false
 links:
  - name: "Link"
    url: "https://kanazawa-u.repo.nii.ac.jp/?action=repository_uri&item_id=11166&file_id=26&file_no=1"
-url_pdf: 'pdf/JMPS112(2017)181-3.pdf'
+url_pdf: 'pdf/SciRepKU43(1998)1-11.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
