@@ -31,7 +31,7 @@ featured: true
 links:
  - name: "Link"
    url: "https://doi.org/10.1016/B978-0-08-102908-4.00104-1"
-url_pdf: 'pdf/EncycloGeol2(2021)561-8.pdf'
+url_pdf: 'pdf/IsldArc30(2021)e12389+.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
