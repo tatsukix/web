@@ -43,7 +43,7 @@ Seeking talented students to work with me. Here is a list of thesis topics for s
 ###### 2021 (FY2021)
 - [**Ganbat, Ariuntsetseg**](https://orcid.org/0000-0003-2464-4161), _in progress_ (granite petrogenesis)
   - ['Doctoral student in Earth science from Mongolia'](http://www.sci.tohoku.ac.jp/about/pdf/sci-e_leaflet2020.pdf): See Page 7 of a leaflet of '_TU Graduate School of Science 2020_'
-  - [Ganbat et al. (2021a)](https://doi.org/10.1016/j.gr.2020.12.009)📃 ; [Ganbat et al. (2021b)](https://doi.org/10.1029/2020JB021492.)📃
+  - [Ganbat et al. (2021a)](https://doi.org/10.1016/j.gr.2020.12.009)📃 ; [Ganbat et al. (2021b)](https://doi.org/10.1029/2020JB021492)📃
 
 ###### 2018 (FY2017)
 - [**Ayano, Sofiya Abdulkadir**](https://orcid.org/0000-0002-3124-9680), 2018, Carbonate metasomatism of Neoproterozoic ophiolite of the East African Orogenic Belt: An integrated study of the Tulu Dimtu ultramafic body (Ethiopia) [東アフリカ造山帯新原生代オフィオライトの炭酸塩交代作用：トゥルデムトゥ超苦鉄質岩体（エチオピア）の総合研究]. 東北大学 博士論文(英文), 125 p.
