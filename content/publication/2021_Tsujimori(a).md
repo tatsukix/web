@@ -30,8 +30,8 @@ featured: true
 
 links:
  - name: "Link"
-   url: "https://www.elsevier.com/books/encyclopedia-of-geology/elias/978-0-08-102908-4"
-url_pdf: 'https://doi.org/10.1016/B978-0-08-102908-4.00104-1'
+   url: "https://doi.org/10.1016/B978-0-08-102908-4.00104-1"
+url_pdf: 'pdf/EncycloGeol2(2021)561-8.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
