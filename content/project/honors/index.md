@@ -61,6 +61,7 @@ Here is a list of academic awards, honors, and accomplishments.
 ----------
 ## Accomplishments of my students 
 ##### Awards
+- **2017** --- JpGU 2021 Outstanding Student Presentation Award (OSPA)🏅, **Naoko Takahashi**, 3rd year of the Doctoral Program (2021)
 - **2018** --- JpGU 2018 Outstanding Student Presentation Award (OSPA)🏅, **Chinatsu Yamada**, 1st year of the Master's Program (2018)
 - **2017** --- JpGU 2017 Outstanding Student Presentation Award (OSPA)🏅, **Naoko Takahashi**, 1st year of the Master's Program (2017)
 
